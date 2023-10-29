@@ -1,1 +1,22 @@
-/*# sourceMappingURL=styles.css.map */
+form {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  gap: 5px;
+}
+
+.forms {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  gap: 15px;
+}
+
+footer {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}/*# sourceMappingURL=styles.css.map */
