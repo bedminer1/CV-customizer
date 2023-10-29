@@ -106,7 +106,7 @@ export default function App() {
     return (
         <>
         <nav>
-        <h1>CV Application</h1>
+        <h1>CV Customizer</h1>
         </nav>
         <main>
         <section className="forms">
@@ -138,8 +138,8 @@ export default function App() {
             <CV name= {name} email ={email} phone = {phone} 
             school ={school} study ={study} studyStartDate ={studyStartDate} studyEndDate = {studyEndDate}
             company ={company} workTitle = {workTitle} responsibilities ={responsibilities}
-            startExpDate ={startExpDate}
-            endExpDate = {endExpDate}  />
+            expStartDate = {startExpDate}
+            expEndDate = {endExpDate}  />
         </aside>
         </main>
         <footer><a href="https://github.com/bedminer1" target='_blank'>bedminer1 @2023</a></footer>
