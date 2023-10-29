@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Professional() {
+export default function CV() {
   return (
     <div>
       
